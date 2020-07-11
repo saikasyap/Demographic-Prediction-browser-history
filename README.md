@@ -11,7 +11,7 @@ Code is in jupyter notebooks .ipynb file
 
 This project is implemented using various ML algorithms including XGBoost. 
 
-The XGBoost Algorithm gives the best prediction when compared with others.
+The XGBoost Algorithm gives the best prediction when compared with others. Project Deployed using Flask API.
 
 For more information on this please read ReadMe.pdf file
 
